@@ -42,7 +42,7 @@ BankManagementSystem
 
 1. Clone the repository:
    ```
- git clone https://github.com/MarkataaBG04/BankManagementSystem.git
+   git clone https://github.com/MarkataaBG04/BankManagementSystem.git
    ```
 
 2. Open the project in Visual Studio
